@@ -37,5 +37,5 @@
   
 </div>
 
-<!-- ![JeongSeonggil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeongSeonggil&show_icons=true&theme=nightowl) -->
+<!-- ![Seonggil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeongSeonggil&show_icons=true&theme=nightowl) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dataofsg02)](https://solved.ac/dataofsg02)</br> -->

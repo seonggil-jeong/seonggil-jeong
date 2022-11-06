@@ -28,9 +28,9 @@
   </br>
   </br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongSeonggil&count_bg=%23B8A7EA&title_bg=%239BAEF3&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%8D&edge_flat=false)](https://github.com/JeongSeonggil)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongSeonggil&count_bg=%23B8A7EA&title_bg=%239BAEF3&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%8D&edge_flat=false)](https://github.com/Seonggil-Jeong)
 
-  [![JeongSeonggil's trophy](https://github-profile-trophy.vercel.app/?username=JeongSeonggil&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![JeongSeonggil's trophy](https://github-profile-trophy.vercel.app/?username=Seonggil-Jeong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   </br>
 </div>
 

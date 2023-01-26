@@ -11,9 +11,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/🔖 Database-9CB4CC?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/><br/>
   
   <img src="https://img.shields.io/badge/🔖 Environment-748DA6?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
@@ -30,7 +29,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongSeonggil&count_bg=%23B8A7EA&title_bg=%239BAEF3&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%8D&edge_flat=false)](https://github.com/Seonggil-Jeong)
 
-  [![JeongSeonggil's trophy](https://github-profile-trophy.vercel.app/?username=Seonggil-Jeong&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!--   [![JeongSeonggil's trophy](https://github-profile-trophy.vercel.app/?username=Seonggil-Jeong&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
   </br>
 </div>
 
